@@ -12,3 +12,6 @@ $ python manage.py runserver
 $ docker build -t my-django-app .
 ```
 (Will try to use docker-compose)
+
+## Next Steps...
+* Use Kubernetes
